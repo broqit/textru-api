@@ -1,5 +1,5 @@
 {
-  "name": "krylov123/textru-api",
+  "name": "broqit/textru-api",
   "description": "Text.ru API's php connector",
   "license": "MIT",
   "authors": [
@@ -14,7 +14,7 @@
     }
   },
   "require": {
-    "php": "5.6.* || >=7.0"
+    "php": "^8.0"
   },
   "require-dev": {
     "ext-curl": "*",
